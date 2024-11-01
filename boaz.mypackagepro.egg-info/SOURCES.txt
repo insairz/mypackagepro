@@ -1,0 +1,10 @@
+README.md
+setup.py
+boaz.mypackagepro.egg-info/PKG-INFO
+boaz.mypackagepro.egg-info/SOURCES.txt
+boaz.mypackagepro.egg-info/dependency_links.txt
+boaz.mypackagepro.egg-info/requires.txt
+boaz.mypackagepro.egg-info/top_level.txt
+mypackage/__init__.py
+mypackage/mymodule.py
+mypackage/setup.py

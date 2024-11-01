@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: boaz.mypackagepro
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/<username>/<package-name>
+Author: <Your Name>
+Author-email: <Your Email>
+License: MIT
+Platform: UNKNOWN
+
+# MyPackagePro
+This is the README file for MyPackagePro.
+
+
